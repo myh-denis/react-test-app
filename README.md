@@ -15,7 +15,7 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 
 
-#Requirements for test application
+# Requirements for test application
 - We need to see your own code.
 - The app should load and display photos from our API endpoint `http://interview.agileengine.com`
 - Obtain a valid Bearer token with valid API key (don't forget to implement invalid token handler and renewal)
@@ -40,7 +40,7 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 - We value code readability and consistency, and usage of modern community best practices and architectural approaches, as well, as functionality correctness. So pay attention to code quality.
 - Target completion time is about 2 hours. We would rather see what you were able to do in 2 hours than a full-blown algorithm you’ve spent days implementing. Note that in addition to quality, time used is also factored into scoring the task.
 
-#UI/UX Requirements
+# UI/UX Requirements
 - The app should contain two screens
 - Grid view:
     - Displays photos in a flexible grid, number of columns depending on the width of the viewport.
@@ -54,6 +54,6 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
     - Supports navigating between images (left/right)
     - (optional) Animated screen transitions would be a plus.
 
-#Expected Deliverables
+# Expected Deliverables
 - Source code.
 - Readme, with instructions, how to build and run.
